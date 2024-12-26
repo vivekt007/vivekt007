@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vivek Tigadi</h1>
-<h3 align="center">A designer obsessed with creating digital experiences. Ican code too.</h3>
+<h1 align="left">Hi 👋, I'm Vivek Tigadi</h1>
+<h3 align="left">A designer obsessed with creating digital experiences. Ican code too.</h3>
 
 - 🌱 I’m currently learning **design systems, Node Js, Express Js**
 

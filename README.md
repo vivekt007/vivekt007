@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vivek-tigadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-tigadi" height="30" width="40" /></a>
-<a href="https://instagram.com/vicky__67t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vicky__67t" height="30" width="40" /></a>
 <a href="https://www.behance.net/vivektigadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vivektigadi" height="30" width="40" /></a>
 <a href="https://medium.com/@vivektigadi59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vivektigadi59" height="30" width="40" /></a>
 <a href="https://discord.gg/vivektigadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vivektigadi" height="30" width="40" /></a>
+  <a href="https://instagram.com/vicky__67t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vicky__67t" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek-tigadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-tigadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

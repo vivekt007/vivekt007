@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **design systems, Node Js, Express Js**
 
-- 👨‍💻 All of my projects are available at [https://www.vivektigadi.com/](https://www.vivektigadi.com/)
+- 👨‍💻 All of my projects are available at [https://www.vivektigadi.art/](https://www.vivektigadi.art/)
 
 - 💬 Ask me about **UI UX Design, React Js, HTML, CSS**
 
